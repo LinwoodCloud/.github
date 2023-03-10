@@ -1,7 +1,7 @@
 <div align="center">
 
   
-<img src="https://github.com/LinwoodCloud/website/blob/main/public/Linwood.png?raw=true" width="350px" />
+<img src="https://raw.githubusercontent.com/LinwoodCloud/website/main/public/logos/logo.png" width="350px" />
 
 
 # LinwoodCloud
